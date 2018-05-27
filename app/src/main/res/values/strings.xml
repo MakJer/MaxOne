@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Max One</string>
+    <string name="about_title">Tietoja ohjelmasta</string>
+
+
+    <string name="valid_weight">Tarkista kilomäärä!</string>
+    <string name="valid_reps">Tarkista toistomäärä!</string>
+
+
+    <string name="about_screen_content">
+        <![CDATA[
+        <img src="data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTcuMS4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI5Ny4zMzMgMjk3LjMzMyIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMjk3LjMzMyAyOTcuMzMzOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgd2lkdGg9IjI1NnB4IiBoZWlnaHQ9IjI1NnB4Ij4KPGc+Cgk8cGF0aCBkPSJNMjg5LjA4Myw0Mi41MDhoLTguNDE3di02LjMzM2MwLTUuNzA3LTQuNjI2LTEwLjY2Ny0xMC4zMzMtMTAuNjY3aC02LjY2N3YtOC4yNWMwLTQuNTU2LTMuNDQ0LTguMjUtOC04LjI1ICAgcy04LDMuNjk0LTgsOC4yNXYyNS4yNWgtMTk4di0yNS4yNWMwLTQuNTU2LTMuOTQ0LTguMjUtOC41LTguMjVzLTguNSwzLjY5NC04LjUsOC4yNXY4LjI1SDI3Yy01LjcwNywwLTEwLjMzMyw0LjYyNi0xMC4zMzMsMTAuMzMzICAgdjYuNjY3SDguMjVjLTQuNTU2LDAtOC4yNSwzLjQ0NC04LjI1LDhjMCw0LjU1NiwzLjY5NCw4LDguMjUsOGg4LjQxN3Y2LjE2N2MwLDUuNzA3LDQuNjI2LDEwLjgzMywxMC4zMzMsMTAuODMzaDUuNjY3djcuNzUgICBjMCw0LjU1NiwzLjk0NCw4LjI1LDguNSw4LjI1czguNS0zLjY5NCw4LjUtOC4yNXYtMjQuNzVoMjkuNjk5Yy0wLjAzMSwxLjg4OCwwLjI4OCwzLjgxMywxLjAxNiw1LjY4MmwwLjc2MiwxLjk1OSAgIGMxMC4wMTgsMjUuNzMsMjcuNTYyLDQ4LjA0OCw1MC4wMjMsNjMuOTE3djU3LjY3M2MwLDEuMDMyLDAuMDc2LDIuMDQ1LDAuMjEsMy4wNGMtMTUuOTE0LDI3LjAzMy0zNS41ODMsNTAuODU5LTU4LjU1OSw3MC44ODUgICBsLTAuMzk5LDAuMzQ4Yy02LjI0OCw1LjQzOS02LjkwNCwxNC45MTQtMS40NjYsMjEuMTYzYzIuOTY2LDMuNDA3LDcuMTMyLDUuMTUxLDExLjMyLDUuMTUxYzMuNDkzLDAsNy4wMDEtMS4yMTMsOS44NDMtMy42ODYgICBsMC40MDctMC4zNTRjMjMuOTk0LTIwLjkxNSw0NC43MDgtNDUuNTI1LDYxLjcxOS03My4yOTVjMjMuMTIzLDE2LjQyNywzOS4xMzgsMzguOTkxLDQ1LjYxOCw2NC42NDdsMC4yNjMsMS4wNDEgICBjMS43MTYsNi44MDEsNy44MjQsMTEuMzM0LDE0LjUzMywxMS4zMzRjMS4yMTUsMCwyLjQ0OS0wLjE0OSwzLjY4MS0wLjQ2YzguMDMyLTIuMDI2LDEyLjkwMS0xMC4xODIsMTAuODc0LTE4LjIxNGwtMC4yNjQtMS4wNDQgICBjLTcuODE5LTMwLjk2MS0yNi4zMTUtNTguMjItNTIuODc5LTc4LjQ4NGMwLjA2Mi0wLjY4MywwLjA5OS0xLjM3MywwLjA5OS0yLjA3MnYtNTYuMjU3ICAgYzIzLjczNC0xNi40MjMsNDIuMDE2LTM5LjkwOSw1Mi4wNDItNjcuMTQ4bDAuMTU3LTAuNDNjMC42NTItMS43ODIsMC45MjktMy42MDYsMC44OTktNS4zOTZoMTguNDAydjI0Ljc1ICAgYzAsNC41NTYsMy40NDQsOC4yNSw4LDguMjVzOC0zLjY5NCw4LTguMjV2LTguNzVoNi42NjdjNS43MDcsMCwxMC4zMzMtNC40NiwxMC4zMzMtMTAuMTY3di01LjgzM2g4LjQxN2M0LjU1NiwwLDguMjUtMy40NDQsOC4yNS04ICAgQzI5Ny4zMzMsNDUuOTUyLDI5My42NCw0Mi41MDgsMjg5LjA4Myw0Mi41MDh6IE0xNzYuMTc0LDkyLjJjLTMuNTA2LTguNzkxLTEyLjA5MS0xNS4wMDctMjIuMTM0LTE1LjAwNyAgIGMtOS43NzEsMC0xOC4xNjMsNS44ODMtMjEuODQsMTQuMjk5Yy05LjEyNS05LjU2OS0xNi41MzQtMjAuNzQ1LTIxLjc1OC0zMi45ODRoODcuODI3QzE5My4wMTcsNzEuMDQ1LDE4NS40ODMsODIuNDUxLDE3Ni4xNzQsOTIuMiAgIHoiIGZpbGw9IiMwMDAwMDAiLz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8L3N2Zz4K"
+            width="100"
+            height="100"
+        />
+        <h1 style="white-space: nowrap;">One rep max</h1><span> v1.0 </span>
+        <div><br/></div>
+        <div>
+            <div>Icons made by</div>
+            <ul>
+                <li><a href="http://www.freepik.com" title="Freepik">Freepik</a></li>
+                <li><a href="http://www.flaticon.com/authors/appzgear" title="Appzgear">Appzgear</a></li>
+            </ul>
+            <div>from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+        <div>
+        ]]>
+    </string>
+</resources>
